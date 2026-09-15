@@ -1,7 +1,5 @@
 LAB1.2
-- Họ và tên: Phạm Hồng Duy
-- MSSV: [điền MSSV]
-- Tên bài Lab: Bắt gói tin Telnet - SSH
+Phạm Hồng Duy-MSSV:1150070008
 Nội dung đã thực hiện
 - Thiết lập Kali Linux, Windows Server 2022 và Ubuntu Server.
 - Cấu hình SSH Server trên Windows Server.
